@@ -6,6 +6,8 @@ npm i express
 
 npm i mongodb cors dotenv uuid multer mongoose
 
+npm i morgan
+
 - in package.json:
 
 "type": "module",

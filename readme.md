@@ -1,12 +1,18 @@
 # Setup
 
+Ruten von POST 1 Boot oder Get 1 Boot sind gesichert und nur durch login erreichbar
+
 npm init -y
 
 npm i express
 
 npm i mongodb cors dotenv uuid multer mongoose
 
-npm i morgan
+## npm i morgan
+
+morgan: logger, middelware-logger in dev format-sehe die Anfragen
+
+![](/src/readmeImg/morgan1.png)
 
 - in package.json:
 

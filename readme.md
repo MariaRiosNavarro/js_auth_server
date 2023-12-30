@@ -12,8 +12,6 @@ npm i mongodb cors dotenv uuid multer mongoose
 
 morgan: logger, middelware-logger in dev format-sehe die Anfragen
 
-![](/src/readmeImg/morgan1.png)
-
 - in package.json:
 
 "type": "module",

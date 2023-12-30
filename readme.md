@@ -1,6 +1,6 @@
 # Setup
 
-Ruten von POST 1 Boot oder Get 1 Boot sind gesichert und nur durch login erreichbar
+POST 1 Boot or Get 1 Boot rods are secured and can only be accessed via login
 
 npm init -y
 

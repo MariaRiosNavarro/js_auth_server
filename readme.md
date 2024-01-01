@@ -1,4 +1,4 @@
-# Setup
+# BASIC AUTH with mongoose
 
 POST 1 Boot or Get 1 Boot routes are basic secured and can only be accessed via login
 

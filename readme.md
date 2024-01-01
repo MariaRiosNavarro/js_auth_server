@@ -1,6 +1,6 @@
 # Setup
 
-POST 1 Boot or Get 1 Boot routes are secured and can only be accessed via login
+POST 1 Boot or Get 1 Boot routes are basic secured and can only be accessed via login
 
 npm init -y
 
